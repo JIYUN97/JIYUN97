@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jiyun's%20Github&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F1CDF0&height=150&section=header&text=Jiyun's%20Github&fontSize=70&animation=twinkling)
 
 <div align="center" style="display:flex">
   <h3> Hi🖐🏻 I'm Jiyun </h3>
