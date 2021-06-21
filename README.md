@@ -1,10 +1,7 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=F1CDF0&height=150&section=header&text=Jiyun's%20Github&fontSize=70&animation=twinkling)
-
 <div align="center" style="display:flex">
   <h3> Hi🖐🏻 I'm Jiyun </h3>
-  
+  <h3>I am a Node.js Backend developer</h3?
  ![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIYUN97&show_icons=true&theme=tokyonight)
 
 
